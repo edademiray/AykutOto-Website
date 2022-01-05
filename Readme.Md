@@ -1,5 +1,10 @@
-Simple website with Bootstrap ! 
-#Live Version: http://yanginozu.com/
+Simple website with:
+* Bootstrap 
+* HTML
+* CSS
+* Javascript
+
+# Live Version: http://yanginozu.com/
 
 Template Name: Eterna
 Template URL: https://bootstrapmade.com/eterna-free-multipurpose-bootstrap-template/
